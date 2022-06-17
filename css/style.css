@@ -80,10 +80,14 @@ MAIN
     height: calc(100vh - 80px);
 }
 
-.main_container {
+.main__container {
     display: flex;
     align-items: center;
     height: 100%;
+}
+
+.main__box {
+    display: flex;
 }
 
 .intro__info {
